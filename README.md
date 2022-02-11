@@ -7,9 +7,9 @@ Skills: Python / Java / C++ / R / Matlab
 - 🌱 I’m currently learning Currently studying Applied Mathematics and modeling at Polytech Nice Sophia in Nice, France. 
 - 🔭 I'm interested in data science, machine learning, artificial intelligence, augmented reality and all new things related to computer science. 
 
+tt
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hamzaokd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hamzaoukaddi/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hamzaokd)  [<img src='https://cdn.jsdelivr.net/npm/simple-line-icons@2.5.5/src/svgs/social-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hamzaoukaddi/)  
 
 
 <!---
