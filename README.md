@@ -3,10 +3,10 @@
 On my GitHub page, I put my academic projects as well as personal ones
 
 
-- 🌱 I’m currently learning Currently studying Applied Mathematics and modeling at Polytech Nice Sophia in Nice, France. 
+- 🌱 I’m currently studying Applied Mathematics and modeling at Polytech Nice Sophia in Nice, France. 
 - 🔭 I'm interested in data science, machine learning, artificial intelligence, augmented reality and all new things related to computer science. 
 
-
+Visit my [page](https://hamzaokd.github.io)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
