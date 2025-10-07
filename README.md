@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Hamza Oukaddi
-#### I'm a future data science engineer
+### Hello, my name is Hamza Oukaddi
+I make cameras smarter — video analytics & computer vision & AI.
 
 Visit my [page](https://hamzaokd.com)
 
